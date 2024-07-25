@@ -7,3 +7,7 @@ Through this analysis, we have identified several critical factors contributing 
 Moreover, our analysis highlights that the retail-grocery outlet class was the most effective in driving revenue growth. We also identified the top three customers, Amgad, Baher, and Mohamed Hussein, who made substantial contributions to our sales figures. Additionally, March emerged as the most profitable month for the company.
 
 This project leverages various data analysis techniques in Power BI to provide a detailed understanding of the sales performance, helping to inform future strategies and decision-making processes. We invite you to explore the repository and discover the valuable insights we have uncovered.
+
+![Sales](https://github.com/user-attachments/assets/c7b1e3c2-544f-46b5-8266-77e02c5ff27a)
+![Users](https://github.com/user-attachments/assets/8c2a805e-4954-4e94-b86b-da24535d2355)
+
